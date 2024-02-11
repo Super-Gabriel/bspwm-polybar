@@ -15,3 +15,8 @@ once you install those packages you have to make the config directories:
 - **~/.config/bspwm**
 - **~/.config/sxhkd**
 - **~/.config/polybar**
+
+cosas a agregar:
+- configuración de picom
+- brightnessctl
+- modificar modulos de internet
