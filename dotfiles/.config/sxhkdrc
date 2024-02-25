@@ -33,6 +33,10 @@ super + alt + {q,r}
 ctrl + alt + Delete
 	bspc quit | systemctl suspend
 
+# suspend bspw m
+ctrl + Delete
+	systemctl suspend
+
 # close and kill
 super + {_,shift + }w
 	bspc node -{c,k}
