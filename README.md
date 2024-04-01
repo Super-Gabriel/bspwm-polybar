@@ -16,6 +16,14 @@ once you install those packages you have to make the config directories:
 - **~/.config/sxhkd**
 - **~/.config/polybar**
 
+if you want to take the examples files, they're in:
+
+- **bspwm**: /usr/share/doc/bspwm/examples/bspwmrc
+- **sxhkd**: /usr/share/doc/bspwm/examples/sxhkdrc
+- **polybar**: /etc/polybar/config.ini
+- **picom**: /etc/xdg/picom.conf
+- **dunst**: /etc/dunst/dunstrc
+
 cosas a agregar:
 - configuración de picom
 - brightnessctl
