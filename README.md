@@ -28,3 +28,5 @@ cosas a agregar:
 - configuración de picom
 - brightnessctl
 - modificar modulos de internet
+- flameshot
+- noto-fonts-emoji
