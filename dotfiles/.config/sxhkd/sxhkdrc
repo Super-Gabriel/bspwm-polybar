@@ -13,6 +13,18 @@ ctrl + Down
 ctrl + alt + t
 	terminator
 
+# emacs
+super + e
+	emacs
+
+# browser
+super + b
+	brave
+
+# file manager
+ctrl + alt + e
+	thunar
+
 # program launcher
 super + @space
 	dmenu_run
@@ -36,6 +48,14 @@ ctrl + alt + Delete
 # suspend bspw m
 ctrl + Delete
 	systemctl suspend
+
+# take full screenshot
+ctrl + Print
+	flameshot full
+
+#take screenshot gui
+alt + Print
+	flameshot gui
 
 # close and kill
 super + {_,shift + }w
